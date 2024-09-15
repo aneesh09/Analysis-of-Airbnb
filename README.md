@@ -1,5 +1,3 @@
-Airbnb Data Analysis
-
 Overview
 
 This project aims to analyze Airbnb data to uncover key insights into user experiences and satisfaction levels across various listed stays. The analysis was performed using Power BI to visualize trends and 

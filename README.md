@@ -44,6 +44,7 @@ Segmented data based on key factors like location, price, and review scores.
 Visualization:
 
 Created dashboards in Power BI to visualize trends in user satisfaction, pricing, and booking patterns.
+![image](https://github.com/user-attachments/assets/a6aa0fa9-27fa-4d35-8192-7a39d79a8662)
 
 Visualized the impact of location, price range, and other factors on guest ratings.
 
